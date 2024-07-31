@@ -14,9 +14,11 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
+        >haseeb ali
         </a>
+        <button className='signinBtn'>Sign in</button>
+        <button className='signupBtn'>Sign up</button>
+
       </header>
     </div>
   );
